@@ -1,0 +1,37 @@
+body {
+    margin: 0px;
+}
+#good_afb {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+}
+#content_en_sidebars {
+    display: flex;
+    flex-direction: row;
+}
+
+#sidebar_links {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 15%;
+    background-color: lightgreen;
+}
+
+
+#content {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 70%;
+    background-color: #F0EEEB;
+    justify-content: flex-start;
+}
+
+#sidebar_rechts {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+    width: 15%;
+    background-color: lightgreen;
+}

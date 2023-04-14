@@ -1,0 +1,22 @@
+/* footer */
+.footer {
+    display: flex;
+    height: auto;
+    background-color: #C7A685;
+    flex-direction: row;
+    border: 1px solid black;
+    justify-content: space-evenly;
+    align-content: center;
+}
+
+.footerContent,
+p {
+    margin: 15px;
+    display: flex;
+    flex-direction: row;
+}
+
+.img {
+    height: 50px;
+    width: 50px;
+}

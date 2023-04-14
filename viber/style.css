@@ -1,0 +1,121 @@
+/*Code voor de sidebars*/
+#content {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 70%;
+    background-color: #F0EEEB;
+    justify-content: flex-start;
+}
+
+#kledingrek_afb {
+    display: flex;
+    width: 100%;
+    justify-self: center;
+}
+
+#kledingrek_afb img {
+    display: flex;
+    height: 200px;
+    width: 100%;
+    border-radius: 3px;
+}
+
+#kleding_items_top {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+#kleding_item1 {
+    display: flex;
+    flex-direction: column;
+    width: 33%;
+    padding-top: 2%;
+    align-items: center;
+}
+
+#kleding_item1 img {
+    width: 70%;
+}
+
+#kleding_item2 {
+    display: flex;
+    width: 33%;
+    padding-top: 2%;
+    align-items: center;
+    flex-direction: column;
+}
+
+#kleding_item2 img {
+    display: flex;
+    justify-content: center;
+}
+
+#kleding_item3 {
+    display: flex;
+    padding-top: 2%;
+    flex-direction: column;
+    align-items: center;
+    width: 33%;
+}
+
+#kleding_item3 img {
+    width: 70%;
+}
+
+#kleding_items_bottom {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+#kleding_item4 {
+    display: flex;
+    padding: 2% 0%;
+    flex-direction: column;
+    align-items: center;
+    width: 24%;
+}
+
+#kleding_item4 img {
+    width: 90%;
+}
+
+#kleding_item5 {
+    display: flex;
+    padding: 2% 0%;
+    flex-direction: column;
+    align-items: center;
+    width: 24%;
+}
+
+#kleding_item5 img {
+    width: 90%;
+}
+
+#kleding_item6 {
+    display: flex;
+    padding: 2% 0%;
+    flex-direction: column;
+    align-items: center;
+    width: 24%;
+}
+
+#kleding_item6 img {
+    width: 90%;
+}
+
+#kleding_item7 {
+    display: flex;
+    padding: 2% 0%;
+    flex-direction: column;
+    align-items: center;
+    width: 24%;
+}
+
+#kleding_item7 img {
+    width: 90%;
+}

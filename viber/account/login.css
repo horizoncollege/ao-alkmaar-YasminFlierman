@@ -1,0 +1,29 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.form::content {
+    margin: 15px;
+}
+
+.btnAll {
+    border-color: #04AA6D;
+}
+
+.btnReg {
+    text-decoration: none;
+    margin: 15px;
+}
+
+#content {
+    height: fit-content;
+}
+#inhoud{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}

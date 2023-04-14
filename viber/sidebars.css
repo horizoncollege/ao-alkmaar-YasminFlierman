@@ -1,0 +1,21 @@
+#content_en_sidebars {
+    display: flex;
+    flex-direction: row;
+}
+
+#sidebar_links {
+    background-image: url(border.jpg);
+    border-style: double;
+    display: flex;
+    flex-wrap: nowrap;
+    width: 15%;
+}
+
+#sidebar_rechts {
+    background-image: url(border.jpg);
+    border-style: double;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+    width: 15%;
+}
